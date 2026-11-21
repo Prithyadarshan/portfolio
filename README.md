@@ -4,12 +4,6 @@
 
 Building intelligent, data-driven systems that connect AI research, software engineering, and real-world applications.
 
-**Portfolio:** https://prithyadarshan-thiyagarajan.netlify.app/
-
-**GitHub:** https://github.com/prithyadarshan
-
-**LinkedIn:** https://www.linkedin.com/in/prithyadarshan-thiyagarajan-379a4b2a3/
-
 ---
 
 ## About Me
