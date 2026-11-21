@@ -4,8 +4,6 @@
 
 Building intelligent, data-driven systems that connect AI research, software engineering, and real-world applications.
 
----
-
 ## About Me
 
 I'm Prithyadarshan T, a Computer Science and Engineering undergraduate specializing in Artificial Intelligence and Machine Learning at Saranathan College of Engineering.
