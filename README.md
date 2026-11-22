@@ -170,5 +170,5 @@ The photo is embedded in the `<img class="ph" ...>` tag as a base64 image, which
 - Email: prithyadarshant@gmail.com
 - LinkedIn: https://linkedin.com/in/prithyadarshan-thiyagarajan-379a4b2a3
 - GitHub: https://github.com/prithyadarshan
-© 2026 Prithyadarshan T. All rights reserved.
+- © 2026 Prithyadarshan T. All rights reserved.
  
