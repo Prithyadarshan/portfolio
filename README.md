@@ -1,4 +1,4 @@
-# Prithyadarshan T – AI & ML Portfolio Website
+# PRITHYADARSHAN T – Portfolio Website
  
 A responsive personal portfolio for **Prithyadarshan T**, a final-year Computer Science and Engineering (AI & ML) student at Saranathan College of Engineering, Tiruchirappalli. It presents internships, projects, certifications, technical presentations and achievements in one clean page, and can generate a text-based resume PDF from the same content.
  
